@@ -1,6 +1,6 @@
 # Programming Ideas
 Project ideas for anyone wanting to program, but can't think of an idea.
- * Email to SMS client. Send SMS to phone. Receive not going to happen for free
+ * Email to SMS client (Send SMS to phone and recieve)
  * Notepad
  * Language cheat sheet. (look above)
  * Anti-virus
