@@ -10,4 +10,4 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Battleship
  * Database browser
  * Messaging client
-
+ * Algorithm visualizer
