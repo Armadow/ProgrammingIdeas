@@ -12,3 +12,4 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Messaging client
  * Algorithm visualizer
  * Network scanner(ip, port)
+ * Conway's game of life
