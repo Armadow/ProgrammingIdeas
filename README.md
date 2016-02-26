@@ -14,3 +14,4 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Network scanner(ip, port)
  * Conway's game of life
  * Periodic Table
+ * Web server
