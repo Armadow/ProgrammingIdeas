@@ -9,7 +9,7 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Archive thangy (Think 7zip/Winrar)
  * Battleship
  * Database browser
- * Messaging client
+ * Messaging client/server
  * Algorithm visualizer
  * Network scanner(ip, port)
  * Conway's game of life
