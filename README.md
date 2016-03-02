@@ -17,3 +17,4 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Web server
  * Git client
  * Binary text picture (insert example)
+ * Output all colors JavaFX
