@@ -25,5 +25,6 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Hex editor
  * File explorer
  * Weather tool
+ * File comparison tool
 
 [Binary text picture link]: http://image.shutterstock.com/display_pic_with_logo/1829639/201988459/stock-photo-binary-code-concept-with-text-text-appear-on-red-binary-code-201988459.jpg
