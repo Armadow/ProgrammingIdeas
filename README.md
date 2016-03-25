@@ -37,5 +37,6 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * VOIP
  * Reverse shell
  * Web browser  
+ * Data used over month (Windows 10)
 
 [Binary text picture link]: http://image.shutterstock.com/display_pic_with_logo/1829639/201988459/stock-photo-binary-code-concept-with-text-text-appear-on-red-binary-code-201988459.jpg
