@@ -28,7 +28,7 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Website for school closures
  * File comparison tool
  * Barcode reader
- * ASCII-Bin-Hex-Dec Converter
+ * ASCII-Bin-Hex-Dec Converter/Calculator
  * Process Manager Visualizer
  * Email client
  * Dissambler
