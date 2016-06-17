@@ -53,7 +53,6 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Program to sign up an email to a bunch of subscriptions
  * Neural Network
  * Stoichiometry tool
- * Disk cleanup utility
  * Remake classic games
  * Slither.io script (websocket)
  * Solitaire
