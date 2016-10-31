@@ -68,8 +68,6 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * File signature tool
  * Stereogram captcha?
  * Stereograms
- * Chip-8
- * Chip-8 test rom
  * Hexdump
  * Pushbullet
 
