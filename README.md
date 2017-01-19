@@ -69,7 +69,7 @@ Project ideas for anyone wanting to program, but can't think of an idea.
  * Stereogram captcha?
  * Stereograms
  * Hexdump
- * Pushbullet
+ * App like Pushbullet
  * Photo pinning website. Have a page for each account where it shows photos you have pinned.
  * Traffic Light Simulator
 
